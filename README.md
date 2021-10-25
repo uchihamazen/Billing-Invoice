@@ -1,2 +1,2 @@
 # Billing-Invoice
-Billing Invoice by using C# WPF  Visual Studio 2017  10 hours of work and learning the technology of WPF   
+Simple Billing Invoice made by Visual Studio 2017, C# WPF, .Net Framework 4.5   
